@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  twilioquest:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./:/app
+    ports:
+      - 8282:8000
+    environment:
+      - DEV=true
+
+volumes:
+  postgres:
