@@ -1,0 +1,10 @@
+Executing script: E:\GitHub\TwilioQuest\challenges\list_iteration.py
+Script arguments: Duke,Ruby,Dottie,Snake,Joe
+Output:
+2. E:\GitHub\TwilioQuest\challenges\list_iteration.py
+3. Duke
+4. Ruby
+5. Dottie
+6. Snake
+7. Joe
+

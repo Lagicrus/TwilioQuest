@@ -1,0 +1,8 @@
+Executing script: E:\GitHub\TwilioQuest\challenges\fizzbuzz.py
+Script arguments: -3000,7,6,100
+Output:
+Traceback (most recent call last):
+  File "E:\GitHub\TwilioQuest\challenges\fizzbuzz.py", line 4, in <module>
+    if item % 3 == 0 and item % 5 == 0:
+TypeError: not all arguments converted during string formatting
+
